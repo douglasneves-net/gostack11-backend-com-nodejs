@@ -34,9 +34,9 @@ yarn add uuidv4
 
 
 ### Tipos de Parâmetros
-**Query Params**: <p>Filtros e paginação</p>
-**Route params**: <p>Identifica recursos (Atualizar/Deletar).</p>
-**Request Body**: <p>Conteúdo na hora de criar ou editar um recurso. (JSON)</p>
+**Query Params**: Filtros e paginação<br />
+**Route params**: Identifica recursos (Atualizar/Deletar).<br />
+**Request Body**: Conteúdo na hora de criar ou editar um recurso. (JSON)<br />
 
 
 ## Middleware
