@@ -9,7 +9,7 @@
 - Nodemon 
 - uuidv4
 
-## Como usar ? 
+## :information_source: Como usar ?
 <p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
 
 ```
