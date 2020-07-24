@@ -11,13 +11,11 @@
 
 ## Como usar ? 
 <p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
-```
-yarn 
-```
+*yarn* 
+
 <p>Agora execute o seguinte comando para executar a aplicação:</p>
-```
-yarn dev
-```
+*yarn dev*
+
 
 ## Detalhes sobre a criação
 ```bash
@@ -28,25 +26,25 @@ yarn add uuidv4
 ```
 
 ### Métodos HTTP
-GET: Busca informações do back-end.
-POST: Cria uma informação do back-end.
-PUT: Altera uma informação no back-end(geral)
-PATCH: Altera parte de uma informação no back-end(especifico)
-DELETE: Deletar uma informação no back-end.
+<p>GET: Busca informações do back-end.</p>
+<p>POST: Cria uma informação do back-end.</p>
+<p>PUT: Altera uma informação no back-end(geral)</p>
+<p>PATCH: Altera parte de uma informação no back-end(especifico)</p>
+<p>DELETE: Deletar uma informação no back-end.</p>
 
 
 ### Tipos de Parâmetros
-Query Params: Filtros e paginação
-Route params: Identifica recursos (Atualizar/Deletar).
-Request Body: Conteúdo na hora de criar ou editar um recurso. (JSON)
+<p>Query Params: Filtros e paginação</p>
+<p>Route params: Identifica recursos (Atualizar/Deletar).</p>
+<p>Request Body: Conteúdo na hora de criar ou editar um recurso. (JSON)</p>
 
 
 ## Middleware
-Interceptador de requisições que pode interromper totalmente a requisição ou alterar dados da requisição.
+<p>Interceptador de requisições que pode interromper totalmente a requisição ou alterar dados da requisição.</p>
 
 ## Ponto Importante
-Sempre que vemos uma função com um request e um response podemos chamar de middleware.
-Existe 3 formas de utilizar o middleware.
- No formato global com app.use(nomemiddleware());
- Direto em um outro middleware: app.put('/projects/:id', validateProjectId, (request, response)
- Ou declarando app.use('projects/:id', validateProjectId);
+- Sempre que vemos uma função com um request e um response podemos chamar de middleware.
+- Existe 3 formas de utilizar o middleware.
+ - No formato global com app.use(nomemiddleware());
+ - Direto em um outro middleware: app.put('/projects/:id', validateProjectId, (request, response)
+ - Ou declarando app.use('projects/:id', validateProjectId);
