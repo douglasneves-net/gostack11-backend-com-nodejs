@@ -26,17 +26,17 @@ yarn add uuidv4
 ```
 
 ### Métodos HTTP
-<p>**GET**: Busca informações do back-end.</p>
-<p>**POST**: Cria uma informação do back-end.</p>
-<p>**PUT**: Altera uma informação no back-end(geral)</p>
-<p>**PATCH**: Altera parte de uma informação no back-end(especifico)</p>
-<p>**DELETE**: Deletar uma informação no back-end.</p>
+**GET**: <p>Busca informações do back-end.</p>
+**POST**: <p>Cria uma informação do back-end.</p>
+**PUT**: <p>Altera uma informação no back-end(geral)</p>
+**PATCH**: <p>Altera parte de uma informação no back-end(especifico)</p>
+**DELETE**: <p>Deletar uma informação no back-end.</p>
 
 
 ### Tipos de Parâmetros
-<p>**Query Params**: Filtros e paginação</p>
-<p>**Route params**: Identifica recursos (Atualizar/Deletar).</p>
-<p>**Request Body**: Conteúdo na hora de criar ou editar um recurso. (JSON)</p>
+**Query Params**: <p>Filtros e paginação</p>
+**Route params**: <p>Identifica recursos (Atualizar/Deletar).</p>
+**Request Body**: <p>Conteúdo na hora de criar ou editar um recurso. (JSON)</p>
 
 
 ## Middleware
