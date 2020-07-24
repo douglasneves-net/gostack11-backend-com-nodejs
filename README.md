@@ -11,10 +11,16 @@
 
 ## Como usar ? 
 <p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
-```yarn```
+
+```
+yarn
+```
 
 <p>Agora execute o seguinte comando para executar a aplicação:</p>
-```yarn dev```
+
+```
+yarn dev
+```
 
 
 ## Detalhes sobre a criação
