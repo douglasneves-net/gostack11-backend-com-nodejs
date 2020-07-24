@@ -1,18 +1,19 @@
-## Projeto
-Projeto do zero utilizando o node.js e o framework express, instalamos o nodemon para realizar o reset da aplicação em cada modificação.  Os conceitos de métodos, parâmetros e middlewares foram aplicados, incluindo a utilização do middlewares em toda aplicação ou somente em algumas funções.
-https://www.douglasneves.net/projetos/25-gostack11-noje-js-reactjs-e-react-native/41-back-end-com-node-js
+## :computer: Projeto
+<p>Projeto do zero utilizando o node.js e o framework express, instalamos o nodemon para realizar o reset da aplicação em cada modificação.</p>
+<p>Os conceitos de métodos, parâmetros e middlewares foram aplicados, incluindo a utilização do middlewares em toda aplicação ou somente em algumas funções.</p>
+<p>https://www.douglasneves.net/projetos/25-gostack11-noje-js-reactjs-e-react-native/41-back-end-com-node-js</p>
 
-## Tecnologias
-Node.js
-Express
-Nodemon 
-uuidv4
+## :rocket: Tecnologias
+- Node.js
+- Express
+- Nodemon 
+- uuidv4
 
 ## Como usar ? 
-Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.
-yarn
-Agora execute o seguinte comando para executar a aplicação:
-yarn dev
+<p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
+```bash yarn ```
+<p>Agora execute o seguinte comando para executar a aplicação:</p>
+```bash yarn dev ```
 
 ## Detalhes sobre a criação
 yarn init -y // Inicia Projeto
