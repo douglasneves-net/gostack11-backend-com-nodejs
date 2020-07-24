@@ -11,9 +11,13 @@
 
 ## Como usar ? 
 <p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
-```bash yarn ```
+```bash 
+$ yarn 
+```
 <p>Agora execute o seguinte comando para executar a aplicação:</p>
-```bash yarn dev ```
+```bash 
+$ yarn dev
+```
 
 ## Detalhes sobre a criação
 yarn init -y // Inicia Projeto
