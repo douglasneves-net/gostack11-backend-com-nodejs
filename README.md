@@ -23,7 +23,7 @@ yarn dev
 ```
 
 
-## Detalhes sobre a criação
+## :book: Detalhes sobre a criação
 ```bash
 yarn init -y // Inicia Projeto
 node src/index.js //Executa node
