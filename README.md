@@ -11,19 +11,21 @@
 
 ## Como usar ? 
 <p>Baixe o projeto do github, depois execute o comando abaixo que vai baixar as dependencias.</p>
-```bash 
-$ yarn 
+```bash
+yarn 
 ```
 <p>Agora execute o seguinte comando para executar a aplicação:</p>
-```bash 
+```bash
 $ yarn dev
 ```
 
 ## Detalhes sobre a criação
+```bash
 yarn init -y // Inicia Projeto
 node src/index.js //Executa node
 yarn add nodemon -D
 yarn add uuidv4
+```
 
 ### Métodos HTTP
 GET: Busca informações do back-end.
