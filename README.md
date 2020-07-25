@@ -7,6 +7,7 @@
 - Node.js
 - Express
 - Nodemon 
+- Cors
 - uuidv4
 
 ## :information_source: Como usar ?
@@ -28,6 +29,7 @@ yarn dev
 yarn init -y // Inicia Projeto
 node src/index.js //Executa node
 yarn add nodemon -D
+yarn add cors
 yarn add uuidv4
 ```
 
